@@ -1,5 +1,4 @@
-# i used the pipeline CI/CD to automatisation test developpement and integration continue by Jenkins tool.
+# i used a pipeline CI/CD to automatisation test developpement and integration continue by Jenkins tool.
 ----------------------------------------------------------------------------------------------------------
-clone repository
-build
-test
+Clone repository --> Build  --> Test
+
